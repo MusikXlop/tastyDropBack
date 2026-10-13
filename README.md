@@ -25,6 +25,9 @@ Upgrade system
 Crash game
 Balance management
 Real-time notifications using SignalR
+Mines game
+Wheel spin
+Battle pass progression
 
 Architecture
 The backend provides REST APIs for the Angular frontend and contains the main business logic of the application.
